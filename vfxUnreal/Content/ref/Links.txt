@@ -1,0 +1,2 @@
+particle Decal:
+https://realtimevfx.com/t/ue4-spawning-decals-at-particle-collision-locations/6677/8
